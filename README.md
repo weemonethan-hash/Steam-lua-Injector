@@ -27,6 +27,11 @@
 
 ## 🚀 Getting Started
 
+##Downloading
+
+download the source code only if you have the ability to pack it
+else download the new release from 
+
 ### 1. Set your Steam path
 
 In the **Configuration** card, click **Auto Detect**. If the app can't find Steam, click **Browse** and choose your Steam install folder.
