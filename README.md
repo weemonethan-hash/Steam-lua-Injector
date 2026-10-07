@@ -4,7 +4,7 @@
 
 **Browse Steam, spot a game's App ID automatically, and add it to Steam in a few clicks.**
 
-![Version](https://img.shields.io/badge/version-3.0-4f9dff?style=for-the-badge)
+![Version](https://img.shields.io/badge/version-3.0(beta)-4f9dff?style=for-the-badge)
 ![Platform](https://img.shields.io/badge/platform-Desktop-9b6bff?style=for-the-badge)
 ![UI](https://img.shields.io/badge/UI-English-10b981?style=for-the-badge)
 
