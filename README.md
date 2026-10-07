@@ -27,10 +27,12 @@
 
 ## 🚀 Getting Started
 
-##Downloading
+## Downloading
 
 download the source code only if you have the ability to pack it
 else download the new release from 
+
+HERE "https://github.com/weemonethan-hash/Steam-lua-Injector/releases/tag/Beta" 
 
 ### 1. Set your Steam path
 
