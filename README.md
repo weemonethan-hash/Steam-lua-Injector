@@ -11,7 +11,7 @@
 </div>
 
 ---
-
+**YOU NEED STEAMTOOLS TO BE INSTALLED IN THE PAST OR INSTALLED
 ## ✨ Features
 
 - 🌐 **Built-in browser** — browse the Steam Store or SteamDB without leaving the app
